@@ -31,8 +31,9 @@ To help you to configure this XML file, you can use the GUI.
 Please note the only purpose of the GUI is to configure HardenAD config file, it does not perform any actions!
 
 To run the GUI, you have two options:
-- run `./HardenAD.ps1 -GUI`
-- run `Run-HardenADGui.ps1`
+- run `./HardenAD.ps1 -GUI` = genere fichier de conf
+
+- puis faire `.\HardenAD.ps1`
 ![image](images/hardenAD-GUI.gif)
 
 ## Credit to ... Well. All those mails, tchat threads, ...
